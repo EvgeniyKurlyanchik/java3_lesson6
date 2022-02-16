@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-16T22:45:23</date>
+  <millis>1645040723188</millis>
+  <sequence>2</sequence>
+  <logger>ru.gb.MainApp</logger>
+  <level>WARNING</level>
+  <class>ru.gb.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Achtung Menschen</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-16T22:46:46</date>
+  <millis>1645040806715</millis>
+  <sequence>2</sequence>
+  <logger>ru.gb.MainApp</logger>
+  <level>WARNING</level>
+  <class>ru.gb.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Achtung Menschen</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-16T22:58:00</date>
+  <millis>1645041480357</millis>
+  <sequence>2</sequence>
+  <logger>ru.gb.MainApp</logger>
+  <level>WARNING</level>
+  <class>ru.gb.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Achtung Menschen</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-16T23:00:27</date>
+  <millis>1645041627287</millis>
+  <sequence>2</sequence>
+  <logger>ru.gb.MainApp</logger>
+  <level>WARNING</level>
+  <class>ru.gb.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Achtung Menschen</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-16T23:27:41</date>
+  <millis>1645043261448</millis>
+  <sequence>2</sequence>
+  <logger>ru.gb.MainApp</logger>
+  <level>WARNING</level>
+  <class>ru.gb.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Achtung Menschen</message>
+</record>
+</log>
