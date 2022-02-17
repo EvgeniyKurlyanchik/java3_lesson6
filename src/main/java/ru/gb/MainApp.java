@@ -15,11 +15,17 @@ public class MainApp {
         logger.info("Server  started");
         logger.log(Level.WARNING, "Achtung");
         Handler fileHandler = new FileHandler("1.log",true);
+        Formatter formatter = new Formatter() {
+            @Override
+            public String format(LogRecord record ) {
+                return null;
+            }
+        };
         Handler consoleHandler= new ConsoleHandler();
         logger.addHandler(consoleHandler);
         logger.addHandler(fileHandler);
         logger.setUseParentHandlers(false);
-        logger.log(Level.WARNING, "Achtung Menschen");
+        logger.log(Level.WARNING, "Achtung");
 
         consoleHandler.setFilter(filter);
 
